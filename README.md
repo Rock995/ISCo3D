@@ -25,6 +25,9 @@ ISCo3D/
 --
 
 ## Download
-You can download the ISCo3D dataset from the following Google Drive link:
 
-- [Download ISCo3D from Google Drive]([https://drive.google.com/uc?id=YOUR_FILE_ID&export=download](https://drive.google.com/drive/folders/1vHrkQ6bmJ6aAc8K9YfH1GwV49tURdmz8?usp=sharing))
+You can download the ISCo3D dataset from the following Google Drive folder:
+
+- [Download ISCo3D from Google Drive](https://drive.google.com/drive/folders/1vHrkQ6bmJ6aAc8K9YfH1GwV49tURdmz8?usp=drive_link)
+
+> **Note**: Please manually download the files from the Google Drive folder.
