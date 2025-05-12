@@ -16,11 +16,11 @@ The dataset provides synchronized LiDAR point clouds and RGB camera images to su
 - Robotics in Construction Environments
   
 ## Dataset Structure
-ISCo3D/
--LiDAR/ # Raw point cloud data (.bin or .pcd format)
--Images/ # Calibrated RGB images
--Annotations/ # 3D bounding box labels (KITTI style or custom JSON)
-- Calibration/ # Sensor calibration files for aligning LiDAR and camera data
+
+-LiDAR/ # Raw point cloud data (.bin or .pcd format).
+-Images/ # Calibrated RGB images.
+-Annotations/ # 3D bounding box labels (KITTI style or custom JSON).
+-Calibration/ # Sensor calibration files for aligning LiDAR and camera data.
 
 --
 
